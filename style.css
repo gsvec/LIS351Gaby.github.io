@@ -1,0 +1,59 @@
+
+Body { background-color: #A0E8AF;
+       Margin:20px 20px 20px 20px;
+}
+
+h2 {
+  font-family: Helvetica, Sans-Serif;
+  Text-align:center;
+  Color: 86BAA1;
+}
+
+p {
+  font-family: Helvetica, Sans-Serif;
+  Color: 86BAA1;
+}
+
+h3 {
+  font-family: Helvetica, Sans-Serif;
+  Color: 86BAA1;
+}
+
+p1 {
+  font-family: Helvetica, Sans-Serif;
+  Color: 86BAA1;
+}
+
+li {
+  font-family: Helvetica, Sans-Serif;
+  Color: 86BAA1;
+}
+
+Nav {
+  font-family: Helvetica, serif;
+  Color: 86BAA1;
+}
+
+A:link { 
+  Color: 86BAA1;
+}
+
+A:hover { 
+  Color: white;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
